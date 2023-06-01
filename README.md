@@ -6,7 +6,7 @@ It is **not** a commercial code-gen model instead made for ***educative purpose*
 
 *Checkpoint weights, trained till 10K steps with 6 decoder layers can be found here* [Google drive](https://drive.google.com/file/d/1QpBwTMqeHRIkFOIL3ZMSIAt05Qt1Z6Fn/view?usp=sharing)
 
-> Note: Current custom implementation of ***FlashAttention*** is pretty slow, so as I found a way to make it vectorized, will integrate it to the architecture and update here 😅
+> Note: Current custom implementation of [***FlashAttention***](https://github.com/practice404/Research-Papers/tree/main/FlashAttention) is pretty slow, so as I found a way to make it vectorized, will integrate it to the architecture and update here 😅
 
 
 
