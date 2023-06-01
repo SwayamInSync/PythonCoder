@@ -59,7 +59,7 @@ print(op['generated_text'])
 
 Current Model is trained on the [codeparrot/codeparrot-clean](https://huggingface.co/datasets/codeparrot/codeparrot-clean) dataset.
 
-- Change the `train_config` and `model_config` like *n_layers=12*, etc which controls the training and model's parameters respectively.
+- Change the `train_config` and `model_config` like *n_layers=12*, etc which controls the training and model's parameters respectively inside `train.py`.
 
 - Login to `wandb` and `huggingface_hub` using:
 
