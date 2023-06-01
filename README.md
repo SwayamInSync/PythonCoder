@@ -75,6 +75,6 @@ Current Model is trained on the [codeparrot/codeparrot-clean](https://huggingfac
   $ python train.py
   ```
 
-<img src="/Users/swayam/Desktop/PythonCoder/assets/train_loss.png" alt="train_loss" style="zoom:100%;" />
+<img src="assets/train_loss.png" alt="train_loss" style="zoom:100%;" />
 
 > Demo on Hugging Face spaces will be uploaded soon 
