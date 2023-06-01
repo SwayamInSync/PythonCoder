@@ -1,6 +1,6 @@
 # PythonCoder
 
-***PythonCoder*** is a code generation model only trained only on ***Python*** dataset ([codeparrot/codeparrot-clean](https://huggingface.co/datasets/codeparrot/codeparrot-clean)) . It is a custom model with context window of 1024 tokens and its architecture is based on OpenAI's **GPT2** with **MultiQuery Attention** and **FlashAttention** (MultiHead Attention is also available as option).
+***PythonCoder*** is a code generation model only trained on ***Python*** dataset ([codeparrot/codeparrot-clean](https://huggingface.co/datasets/codeparrot/codeparrot-clean)) . It is a custom model with context window of 1024 tokens and its architecture is based on OpenAI's **GPT2** with **MultiQuery Attention** and **FlashAttention** (MultiHead Attention is also available as option).
 
 It is **not** a commercial code-gen model instead made for ***educative purpose*** to demonstrate how each aspect is implemented and combined using **PyTorch** to build and train a *GPT like code-gen* model.
 
